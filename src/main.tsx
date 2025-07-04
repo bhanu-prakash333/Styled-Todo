@@ -7,10 +7,12 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
  
-    <BrowserRouter>
+    <StrictMode>
+      <BrowserRouter>
     <TodosProvider>
       <App />
     </TodosProvider> 
     </BrowserRouter>  
+    </StrictMode>
  
 )

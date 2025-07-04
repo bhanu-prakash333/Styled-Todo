@@ -1,5 +1,5 @@
 import {createContext, useContext, useState } from "react";
-import { ReactNode } from "react";
+import type {ReactNode } from "react";
 
 export type TodosProviderProps = {
     children : ReactNode

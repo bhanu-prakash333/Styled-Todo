@@ -6,6 +6,7 @@ A simple, modern TODO List application built using *React, **TypeScript, and **V
 
 ## 🌐 Live Demo
 
+![Screenshot 2025-07-04 180259](https://github.com/user-attachments/assets/eaaec5c4-f5f7-4a4d-a417-af937f97a624)
 
 👉 [Click here to view the live app](https://styled-todo-kappa.vercel.app/)
 
